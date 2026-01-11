@@ -149,6 +149,9 @@ Program selesai
 
 # Kesimpulan
 ✔ Program menerapkan OOP dengan pemisahan tugas yang jelas
+
 ✔ Menggunakan validasi input dengan try-except
+
 ✔ Output disajikan rapi dalam bentuk tabel
+
 ✔ Cocok sebagai contoh program Python dasar yang terstruktur
