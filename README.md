@@ -42,7 +42,8 @@
             self.view.display_result_table(self.data.value)
 
 
-        Penjelasan Persyaratan Program
+
+Penjelasan Persyaratan Program
 Berikut adalah penjelasan langkah demi langkah mengenai persyaratan untuk membuat program sederhana tersebut: 
 1. Konsep Modular dan OOP
 Answer: Program harus dirancang menggunakan konsep modularitas dan Object-Oriented Programming (OOP).
